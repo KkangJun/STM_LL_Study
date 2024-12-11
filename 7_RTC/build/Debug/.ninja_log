@@ -1,0 +1,18 @@
+# ninja log v5
+52	222	7555952134076865	CMakeFiles/7_RTC.dir/startup_stm32f407xx.s.obj	6b900f2f88ef657f
+42	280	7555952134617437	CMakeFiles/7_RTC.dir/Core/Src/sysmem.c.obj	b75b8084051ff245
+14	388	7555952135565027	CMakeFiles/7_RTC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_dma.c.obj	226865d3e11c5375
+21	394	7555952135909848	CMakeFiles/7_RTC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rcc.c.obj	ed59df032bc66f59
+38	396	7555952135773359	CMakeFiles/7_RTC.dir/Core/Src/system_stm32f4xx.c.obj	40d5dba384f60e49
+9	395	7555952135813259	CMakeFiles/7_RTC.dir/Core/Src/stm32f4xx_it.c.obj	6f6eec90fb4eded4
+11	387	7555952135629023	CMakeFiles/7_RTC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_gpio.c.obj	eaf7310d21d2453e
+30	389	7555952135549950	CMakeFiles/7_RTC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_exti.c.obj	70cb3ec75542e9ed
+18	393	7555952135813259	CMakeFiles/7_RTC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rtc.c.obj	d6a3f91a9dc14490
+26	395	7555952135843615	CMakeFiles/7_RTC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_utils.c.obj	676fe50c9a00a40f
+33	398	7555952135943898	CMakeFiles/7_RTC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usart.c.obj	34783f2c280ee22b
+47	417	7555952136175527	CMakeFiles/7_RTC.dir/Core/Src/syscalls.c.obj	2324c4d81624147
+4	470	7555952136681433	CMakeFiles/7_RTC.dir/Core/Src/main.c.obj	99641655f62e21d1
+470	702	7555952138273516	7_RTC.elf	4228ca2bf91be614
+19	235	7555954897856755	CMakeFiles/7_RTC.dir/Core/Src/stm32f4xx_it.c.obj	6f6eec90fb4eded4
+14	300	7555954898509637	CMakeFiles/7_RTC.dir/Core/Src/main.c.obj	99641655f62e21d1
+300	430	7555954899721030	7_RTC.elf	4228ca2bf91be614

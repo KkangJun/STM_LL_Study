@@ -1,0 +1,12 @@
+# ninja log v5
+43	125	7549127203493605	CMakeFiles/1_GPIO.dir/startup_stm32f407xx.s.obj	9a378e19e19d6bea
+39	535	7549127207205261	CMakeFiles/1_GPIO.dir/Core/Src/syscalls.c.obj	25567125c7ecbc9c
+31	348	7549127205583957	CMakeFiles/1_GPIO.dir/Core/Src/system_stm32f4xx.c.obj	f7f0ae041c5fbff
+35	346	7549127205235941	CMakeFiles/1_GPIO.dir/Core/Src/sysmem.c.obj	f734e6307ec046b1
+14	190	7550897309401862	CMakeFiles/1_GPIO.dir/Core/Src/stm32f4xx_it.c.obj	c86a5a2777487cda
+27	347	7549127205284079	CMakeFiles/1_GPIO.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_exti.c.obj	fe4d36eb680f86d2
+10	189	7550897309434645	CMakeFiles/1_GPIO.dir/Core/Src/main.c.obj	3a24f2fd3756943
+23	349	7549127205674879	CMakeFiles/1_GPIO.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_utils.c.obj	c93bbb7eba6f1218
+17	346	7549127205598366	CMakeFiles/1_GPIO.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_gpio.c.obj	eef5d09ac599069d
+20	347	7549127205551920	CMakeFiles/1_GPIO.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rcc.c.obj	714a4cf58503ab19
+190	303	7550897310493618	1_GPIO.elf	fc355559d9034ebf

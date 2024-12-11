@@ -1,0 +1,16 @@
+# ninja log v5
+45	146	7555140760164650	CMakeFiles/5_ADC.dir/startup_stm32f407xx.s.obj	22b442a0e239a565
+37	210	7555140760761946	CMakeFiles/5_ADC.dir/Core/Src/sysmem.c.obj	550c434aea9902a5
+23	311	7555140761703101	CMakeFiles/5_ADC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_exti.c.obj	bafd288f88167e87
+41	334	7555140762076768	CMakeFiles/5_ADC.dir/Core/Src/syscalls.c.obj	22f4f2f6648d7ebb
+14	319	7555140761818670	CMakeFiles/5_ADC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_dma.c.obj	e092b4b8ab4971c2
+8	320	7555140761878766	CMakeFiles/5_ADC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_gpio.c.obj	55b5e4229c84a3ae
+34	324	7555140761963821	CMakeFiles/5_ADC.dir/Core/Src/system_stm32f4xx.c.obj	b357ee7a30fcdcda
+30	335	7555140762086778	CMakeFiles/5_ADC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usart.c.obj	edd474fe6437275b
+11	336	7555140762106822	CMakeFiles/5_ADC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj	e9661bbb0d4c8491
+19	223	7555183630452405	CMakeFiles/5_ADC.dir/Core/Src/stm32f4xx_it.c.obj	1ae0f13723321385
+27	396	7555140762495561	CMakeFiles/5_ADC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_tim.c.obj	a0512401a8184d32
+20	396	7555140762465295	CMakeFiles/5_ADC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_utils.c.obj	34caa07b99415d9c
+16	272	7555183630959911	CMakeFiles/5_ADC.dir/Core/Src/main.c.obj	1f9fbcfe88f4e93f
+17	397	7555140762485542	CMakeFiles/5_ADC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rcc.c.obj	7b29ca7d28b6ed8e
+272	421	7555183632320639	5_ADC.elf	af8f85fe84db656b
